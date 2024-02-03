@@ -1,6 +1,6 @@
 .jumbotron {
   padding-top: 2rem;
-  background-color: #0e0e4f;
+  background-color: #6f8aba;
   color: white;
 }
 
@@ -10,7 +10,7 @@
 
 
 #project {
-  background-color: #f3f4f5;
+  background-color: #abc5d8;
 }
 
 #contact {
@@ -19,7 +19,7 @@
 }
 
 .foot {
-  background-color: #f35f0f;
+  background-color: #3e3e50;
 }
 
 section{
@@ -28,4 +28,28 @@ section{
 
 svg{
   transform: translateY(2px);
+}
+
+.card:hover{
+  background-color: #dad491;
+  cursor: pointer;
+  transition: 0s;
+  color: rgb(32, 33, 57);
+}
+
+.card-img-top{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.card{
+  text-align: center;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  border-radius: 2em;
+  border: none;
+  background-color: #F6F6F6;
+}
+
+#About{
+  background-color: #a2b2c7;
 }

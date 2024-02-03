@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #0e0e4f;
+  color: white;
+}
+
+.jumbotron img {
+  width: 300;
+}
+
+
+#project {
+  background-color: #f3f4f5;
+}
+
+#contact {
+  background-color: #273036;
+  color: white;
+}
+
+.foot {
+  background-color: #f35f0f;
+}
+
+section{
+    padding-top: 5rem;
+}
+
+svg{
+  transform: translateY(2px);
+}

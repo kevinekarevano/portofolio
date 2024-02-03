@@ -1,6 +1,6 @@
 .jumbotron {
-  padding-top: 2rem;
-  background-color: #6f8aba;
+  padding-top: 1rem;
+  background-color: #232528;
   color: white;
 }
 
@@ -39,6 +39,7 @@ svg{
 
 .card-img-top{
   width: 50%;
+  height: 80%;
   margin: 0 auto;
 }
 

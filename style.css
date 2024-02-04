@@ -54,3 +54,7 @@ svg{
 #About{
   background-color: #a2b2c7;
 }
+
+.btn-kirim:hover{
+  color: #fbff00;
+}

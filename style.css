@@ -30,6 +30,8 @@ svg{
   transform: translateY(2px);
 }
 
+
+
 .card:hover{
   background-color: #dad491;
   cursor: pointer;
@@ -51,10 +53,28 @@ svg{
   background-color: #F6F6F6;
 }
 
-#About{
+#about{
   background-color: #a2b2c7;
 }
 
 .btn-kirim:hover{
   color: #fbff00;
 }
+
+.kartuu{
+    padding: 35px;
+    border-radius: 20px;
+    background-color: green;
+    box-shadow: 0px 16px 40px 0px rgba(0, 0, 0, 0.20);
+    color: white;
+    max-width: 30rem;
+}
+
+.galeri{
+  background-color: #abc5d8;
+}
+
+.galeri img{
+  cursor: pointer
+}
+
